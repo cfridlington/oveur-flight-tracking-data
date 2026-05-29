@@ -1,0 +1,47 @@
+{
+  "totalFlights" : 126,
+  "typesSeen" : 27,
+  "mostFrequentType" : {
+    "lastSeen" : 1780032884.5,
+    "icao" : "B739",
+    "name" : "737NG 924ER\/W",
+    "aircraft" : [
+      "a92362",
+      "a494eb",
+      "aa2ba2",
+      "a94ae5",
+      "aca5e5",
+      "a94bff",
+      "aca99c",
+      "ab9a32",
+      "ac8217",
+      "a94b6b",
+      "a5e29a",
+      "a59d63"
+    ]
+  },
+  "totalManufacturers" : 8,
+  "totalCallsigns" : 106,
+  "aircraftSeen" : 126,
+  "mostFrequentAircraft" : {
+    "lastSeen" : 1780032884.5,
+    "hex" : "ab9a32",
+    "properties" : {
+      "registration" : "N847DN",
+      "icao_type" : "B739",
+      "manufacturer" : "Boeing",
+      "type" : "737NG 932ER\/W",
+      "registered_owner_country_iso_name" : "US",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676334.jpg",
+      "registered_owner" : "Delta Air Lines",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_operator_flag_code" : "DAL"
+    },
+    "timesSeen" : [
+      1780031750.8999999
+    ],
+    "flights" : {
+      "DAL2762 " : 1
+    }
+  }
+}
