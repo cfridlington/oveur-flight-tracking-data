@@ -1,0 +1,9 @@
+## Ignore History Files
+history_[0-9].json
+history_[1-9][0-9].json
+history_1[0-1][0-9].json
+
+## Ignore Default Dump 1090 Jsons
+stats.json
+receiver.json
+aircraft.json
