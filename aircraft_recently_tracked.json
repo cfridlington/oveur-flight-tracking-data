@@ -1,168 +1,193 @@
 [
   {
-    "timesSeen" : [
-      1780037014.3
-    ],
-    "lastSeen" : 1780037374.9,
-    "properties" : {
-      "registration" : "N8781Q",
-      "registered_owner_country_name" : "United States",
-      "type" : "737-8",
-      "icao_type" : "B38M",
-      "registered_owner" : "Southwest Airlines",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registered_owner_operator_flag_code" : "SWA"
-    },
-    "hex" : "ac1698",
     "flights" : {
       "SWA3693 " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780037048.9
-    ],
-    "lastSeen" : 1780037349.3000002,
-    "hex" : "a9c506",
-    "flights" : {
-      "ASA40   " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780035916.7
-    ],
-    "lastSeen" : 1780037258.7,
-    "properties" : {
-      "registered_owner_country_name" : "United States",
-      "registration" : "N1401L",
-      "type" : "Citation XLS+",
-      "icao_type" : "C56X",
-      "registered_owner" : "Najac Management LLC",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Cessna",
-      "registered_owner_operator_flag_code" : "C56X"
     },
-    "hex" : "a0a536",
-    "flights" : {
-      "N1401L  " : 1
-    }
-  },
-  {
     "timesSeen" : [
-      1780037179.9
+      1780123689.6
     ],
-    "lastSeen" : 1780037240.1,
-    "hex" : "a32ff6",
-    "flights" : {
-      "AAL2035 " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780030851.4,
-      1780036928.3
-    ],
-    "lastSeen" : 1780037235.6,
-    "hex" : "a5d319",
-    "flights" : {
-      "UAL8123 " : 1,
-      "UAL2862 " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780036918
-    ],
-    "lastSeen" : 1780037222.6,
     "properties" : {
-      "registration" : "N378FR",
-      "registered_owner_country_name" : "United States",
-      "type" : "A320 251NSL",
-      "icao_type" : "A20N",
-      "registered_owner" : "Frontier Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/697\/001697885.jpg",
       "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "FFT"
-    },
-    "hex" : "a45210",
-    "flights" : {
-      "FFT3383 " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780035985.6
-    ],
-    "lastSeen" : 1780037194.4,
-    "properties" : {
-      "registration" : "N930AV",
-      "registered_owner_country_name" : "United States",
-      "type" : "A320-251N",
-      "icao_type" : "A320",
-      "registered_owner" : "Bank of Utah Trustee",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus",
-      "registered_owner_operator_flag_code" : "C441"
-    },
-    "hex" : "ace5bd",
-    "flights" : {
-      "TAI558  " : 1
-    }
-  },
-  {
-    "timesSeen" : [
-      1780030399,
-      1780036975.7
-    ],
-    "lastSeen" : 1780037189.2,
-    "properties" : {
-      "registration" : "N69806",
-      "registered_owner_country_name" : "United States",
-      "type" : "737NG 924ER\/W",
-      "icao_type" : "B739",
-      "registered_owner" : "United Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/617\/001617573.jpg",
-      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B738",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/669\/001669919.jpg",
       "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N8502Z",
+      "type" : "737NG 800\/W",
+      "registered_owner_operator_flag_code" : "SWA"
+    },
+    "lastSeen" : 1780123749.7,
+    "hex" : "abaa0e"
+  },
+  {
+    "flights" : {
+      "CAO1166 " : 1
+    },
+    "timesSeen" : [
+      1780122439.5
+    ],
+    "lastSeen" : 1780123728.1,
+    "hex" : "781fc3"
+  },
+  {
+    "flights" : {
+      "UAL1603 " : 1
+    },
+    "timesSeen" : [
+      1780109490.1000001,
+      1780122584.8
+    ],
+    "lastSeen" : 1780123718.2,
+    "hex" : "a12b0a"
+  },
+  {
+    "flights" : {
+      "SWA937  " : 1
+    },
+    "timesSeen" : [
+      1780123709.8999999
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B38M",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/615\/001615292.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N8708Q",
+      "type" : "737MAX 8",
+      "registered_owner_operator_flag_code" : "SWA"
+    },
+    "lastSeen" : 1780123709.8999999,
+    "hex" : "abf9d5"
+  },
+  {
+    "flights" : {
+      "UAL1375 " : 1
+    },
+    "timesSeen" : [
+      1780094699.6000001,
+      1780099125.5,
+      1780114773.8,
+      1780123699.3999999
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "United Airlines",
+      "icao_type" : "B738",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/665\/001665124.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N76519",
+      "type" : "737NG 824\/W",
       "registered_owner_operator_flag_code" : "UAL"
     },
-    "hex" : "a94ae5",
-    "flights" : {
-      "UAL2142 " : 1
-    }
+    "lastSeen" : 1780123699.3999999,
+    "hex" : "aa56b8"
   },
   {
-    "timesSeen" : [
-      1780036114.1000001
-    ],
-    "lastSeen" : 1780037181.2,
-    "hex" : "a29a6d",
     "flights" : {
-      "EJA267  " : 1
-    }
-  },
-  {
+      "SWA1786 " : 1
+    },
     "timesSeen" : [
-      1780036567.5
+      1780123566.1
     ],
-    "lastSeen" : 1780037174.7,
     "properties" : {
-      "registration" : "N823NN",
-      "registered_owner_country_name" : "United States",
-      "type" : "737NG 823\/W",
-      "icao_type" : "B738",
-      "registered_owner" : "American Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/599\/001599677.jpg",
       "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B738",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/615\/001615162.jpg",
       "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N8651A",
+      "type" : "737NG 8H4\/W",
+      "registered_owner_operator_flag_code" : "SWA"
+    },
+    "lastSeen" : 1780123686.1,
+    "hex" : "abe3e6"
+  },
+  {
+    "flights" : {
+      "WJA1504 " : 1
+    },
+    "timesSeen" : [
+      1780122866.2
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "CA",
+      "registered_owner" : "WestJet",
+      "icao_type" : "B38M",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/478\/001478293.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "Canada",
+      "registration" : "C-GAMQ",
+      "type" : "737MAX 8",
+      "registered_owner_operator_flag_code" : "WJA"
+    },
+    "lastSeen" : 1780123683,
+    "hex" : "c045f1"
+  },
+  {
+    "flights" : {
+      "ASA1487 " : 1
+    },
+    "timesSeen" : [
+      1780062568.6999998,
+      1780122493.3
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Alaska Airlines",
+      "icao_type" : "B739",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N272AK",
+      "type" : "737NG 900ER\/W",
+      "registered_owner_operator_flag_code" : "ASA"
+    },
+    "lastSeen" : 1780123583.3,
+    "hex" : "a2adf4"
+  },
+  {
+    "flights" : {
+      "AAL3054 " : 1
+    },
+    "timesSeen" : [
+      1780122553.2
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "American Airlines",
+      "icao_type" : "B738",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/600\/001600426.jpg",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N874NN",
+      "type" : "737NG 823\/W",
       "registered_owner_operator_flag_code" : "AAL"
     },
-    "hex" : "ab3d39",
+    "lastSeen" : 1780123562,
+    "hex" : "ac066b"
+  },
+  {
     "flights" : {
-
-    }
+      "SWA2678 " : 1
+    },
+    "timesSeen" : [
+      1780123426.2
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B38M",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registration" : "N8814K",
+      "type" : "737MAX 8",
+      "registered_owner_operator_flag_code" : "SWA"
+    },
+    "lastSeen" : 1780123542.7,
+    "hex" : "ac247a"
   }
 ]
