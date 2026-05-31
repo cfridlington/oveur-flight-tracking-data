@@ -1,7 +1,129 @@
 [
   {
+    "flights" : {
+      "N3151E  " : 5
+    },
+    "lastSeen" : 1780204216.3999999,
+    "hex" : "a35be4",
+    "timesSeen" : [
+      1780081252.8000002,
+      1780088462.3999999,
+      1780093357.6000001,
+      1780103859,
+      1780154693.1999998,
+      1780158311,
+      1780161939.6,
+      1780165550.2,
+      1780171244.5,
+      1780177491.6,
+      1780181177.8,
+      1780185519.4,
+      1780193084.2,
+      1780196687.4,
+      1780200323.1,
+      1780203976.1000001
+    ]
+  },
+  {
+    "flights" : {
+      "SKW4729 " : 1,
+      "SKW5592 " : 1,
+      "SKW5557 " : 1,
+      "SKW6018 " : 1,
+      "SKW5502 " : 1,
+      "SKW5670 " : 1,
+      "SKW5271 " : 1
+    },
+    "lastSeen" : 1780209729.6000001,
+    "hex" : "ad6182",
+    "properties" : {
+      "type" : "CRJ 200LR",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Bombardier",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/456\/001456336.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "United Express",
+      "registered_owner_operator_flag_code" : "SKW",
+      "registration" : "N961SW",
+      "icao_type" : "CRJ2"
+    },
+    "timesSeen" : [
+      1780035778.7,
+      1780076566.9,
+      1780080961.4,
+      1780088434.7,
+      1780094684.8000002,
+      1780100751.3,
+      1780122036.9,
+      1780128141.6,
+      1780149745.1,
+      1780156005.3999999,
+      1780163526.1,
+      1780179654.8999999,
+      1780184012.5,
+      1780192600.5,
+      1780208880.6
+    ]
+  },
+  {
+    "flights" : {
+      "SKW5338 " : 1,
+      "SKW5707 " : 1,
+      "SKW4779 " : 1,
+      "SKW308R " : 1,
+      "SKW5738 " : 1
+    },
+    "lastSeen" : 1780205630.8999999,
+    "hex" : "ad2517",
+    "properties" : {
+      "type" : "CRJ 200LR",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Bombardier",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/715\/001715568.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "United Express",
+      "registered_owner_operator_flag_code" : "SKW",
+      "registration" : "N946SW",
+      "icao_type" : "CRJ2"
+    },
+    "timesSeen" : [
+      1780064701.5,
+      1780070103,
+      1780078610.1,
+      1780084116,
+      1780095399.6000001,
+      1780100003.4,
+      1780107897.1,
+      1780163615,
+      1780170553.2,
+      1780175600,
+      1780182121.6000001,
+      1780198968.1,
+      1780204505.3
+    ]
+  },
+  {
+    "flights" : {
+      "SKW3413 " : 1,
+      "SKW3447 " : 1,
+      "SKW3449 " : 1,
+      "SKW3356 " : 1,
+      "SKW3254 " : 2,
+      "SKW3479 " : 2
+    },
+    "lastSeen" : 1780197489.8000002,
     "hex" : "a4c0db",
-    "lastSeen" : 1780120057.8,
+    "properties" : {
+      "type" : "EMB-175 LR",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Embraer",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/752\/001752883.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner" : "Alaska Airlines",
+      "registered_owner_operator_flag_code" : "SKW",
+      "registration" : "N405SY",
+      "icao_type" : "E75L"
+    },
     "timesSeen" : [
       1780031097.9,
       1780035895.8,
@@ -10,164 +132,95 @@
       1780097027.1,
       1780102196.6000001,
       1780113992.7,
-      1780118800.1
-    ],
-    "flights" : {
-      "SKW3449 " : 1,
-      "SKW3479 " : 1,
-      "SKW3254 " : 2,
-      "SKW3447 " : 1,
-      "SKW3356 " : 1
-    },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "Alaska Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/752\/001752883.jpg",
-      "type" : "EMB-175 LR",
-      "icao_type" : "E75L",
-      "registration" : "N405SY",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Embraer"
-    }
+      1780118800.1,
+      1780159535.8,
+      1780164996,
+      1780192168.5,
+      1780196144.7
+    ]
   },
   {
-    "hex" : "ad6182",
-    "lastSeen" : 1780123010.9,
-    "timesSeen" : [
-      1780035778.7,
-      1780076566.9,
-      1780080961.4,
-      1780088434.7,
-      1780094684.8000002,
-      1780100751.3,
-      1780122036.9
-    ],
     "flights" : {
-      "SKW5502 " : 1,
-      "SKW5557 " : 1,
-      "SKW4729 " : 1,
-      "SKW5670 " : 1
+      "SKW5406 " : 1,
+      "SKW4683 " : 1,
+      "SKW5721 " : 1,
+      "SKW5212 " : 1,
+      "SKW5688 " : 1,
+      "SKW5946 " : 1
     },
+    "lastSeen" : 1780203874.3000002,
+    "hex" : "a9ff49",
     "properties" : {
-      "registered_owner_operator_flag_code" : "SKW",
+      "type" : "CRJ 700 701",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Bombardier",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/730\/001730361.jpg",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner" : "United Express",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/456\/001456336.jpg",
-      "type" : "CRJ 200LR",
-      "icao_type" : "CRJ2",
-      "registered_owner_country_name" : "United States",
-      "registration" : "N961SW",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Bombardier"
-    }
-  },
-  {
-    "hex" : "abb5c9",
-    "lastSeen" : 1780120126.2,
-    "timesSeen" : [
-      1780029161.5,
-      1780066263.2,
-      1780087485.9,
-      1780091374.4,
-      1780099250.9,
-      1780105432.8000002,
-      1780118839.5
-    ],
-    "flights" : {
-      "SKW5464 " : 1,
-      "SKW4756 " : 1,
-      "SKW5256 " : 1
-    },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "ASH",
-      "registered_owner" : "United Express",
-      "type" : "EMB-175 LL",
-      "icao_type" : "E75L",
-      "registration" : "N85369",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Embraer"
-    }
-  },
-  {
-    "hex" : "aaa86a",
-    "lastSeen" : 1780116377.3999999,
-    "timesSeen" : [
-      1780029718.6,
-      1780066896.4,
-      1780075456.9,
-      1780096661.5,
-      1780101319.8,
-      1780110027.6999998,
-      1780115195.9
-    ],
-    "flights" : {
-      "SKW4632 " : 1,
-      "SKW5670 " : 1,
-      "SKW5706 " : 1
-    },
-    "properties" : {
       "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "United Express",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/727\/001727629.jpg",
-      "type" : "CRJ 700 702ER",
-      "registration" : "N786SK",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "CRJ7",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Bombardier"
-    }
-  },
-  {
-    "hex" : "ad2517",
-    "lastSeen" : 1780108938.5,
-    "timesSeen" : [
-      1780064701.5,
-      1780070103,
-      1780078610.1,
-      1780084116,
-      1780095399.6000001,
-      1780100003.4,
-      1780107897.1
-    ],
-    "flights" : {
-      "SKW5338 " : 1,
-      "SKW5707 " : 1,
-      "SKW4779 " : 1
+      "registration" : "N743SK",
+      "icao_type" : "CRJ7"
     },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "United Express",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/715\/001715568.jpg",
-      "type" : "CRJ 200LR",
-      "registration" : "N946SW",
-      "registered_owner_country_name" : "United States",
-      "icao_type" : "CRJ2",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Bombardier"
-    }
-  },
-  {
-    "hex" : "a44257",
-    "lastSeen" : 1780106096.7,
     "timesSeen" : [
-      1780031158.3999999,
-      1780037968.5,
-      1780063516.3,
-      1780070892.1,
-      1780086540.2,
-      1780092518.3000002,
-      1780105402.5
-    ],
-    "flights" : {
-      "UAL1769 " : 1,
-      "UAL2047 " : 1,
-      "UAL2382 " : 1
-    }
+      1780029752.2,
+      1780082123,
+      1780099530.6999998,
+      1780106093.1000001,
+      1780124120.8,
+      1780152348.6999998,
+      1780165557.6999998,
+      1780171183.8,
+      1780182929,
+      1780191278.8,
+      1780202678.8999999
+    ]
   },
   {
+    "flights" : {
+      "N98485  " : 5
+    },
+    "lastSeen" : 1780190772.6999998,
+    "hex" : "adbd8e",
+    "timesSeen" : [
+      1780064045.8,
+      1780085308.8000002,
+      1780094653.5,
+      1780101876,
+      1780105807.2,
+      1780170293.6,
+      1780173929.4,
+      1780178037.1999998,
+      1780181654.8999999,
+      1780185301.3,
+      1780189934.3000002
+    ]
+  },
+  {
+    "flights" : {
+      "N9389L  " : 6
+    },
+    "lastSeen" : 1780190081.8,
+    "hex" : "ad06ff",
+    "timesSeen" : [
+      1780030190.2,
+      1780073058.8,
+      1780079259.6,
+      1780083780.3,
+      1780090986.5,
+      1780094617.6000001,
+      1780161332.1000001,
+      1780167671.7,
+      1780177133.7,
+      1780182749.9,
+      1780188938.2
+    ]
+  },
+  {
+    "flights" : {
+      "N2696Z  " : 2
+    },
+    "lastSeen" : 1780188328,
     "hex" : "a2a3ae",
-    "lastSeen" : 1780105669.3,
     "timesSeen" : [
       1780068360.2,
       1780072117.7,
@@ -175,80 +228,62 @@
       1780091350.6000001,
       1780094969.8999999,
       1780102043.4,
-      1780105669.3
-    ],
-    "flights" : {
-      "N2696Z  " : 1
-    }
+      1780105669.3,
+      1780167158.8,
+      1780177101.5,
+      1780184706.5,
+      1780188328
+    ]
   },
   {
-    "hex" : "aaf9ea",
-    "lastSeen" : 1780123488.7,
-    "timesSeen" : [
-      1780029707.8,
-      1780034093.2,
-      1780065757.8999999,
-      1780070833.4,
-      1780117905.1000001,
-      1780123424.6
-    ],
     "flights" : {
-      "UAL436  " : 1,
-      "UAL1334 " : 1
+      "N228AN  " : 3
     },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "registered_owner" : "United Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/599\/001599365.jpg",
-      "type" : "A319 131",
-      "icao_type" : "A319",
-      "registration" : "N806UA",
-      "registered_owner_country_name" : "United States",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus"
-    }
+    "lastSeen" : 1780196040.4,
+    "hex" : "a1fec6",
+    "timesSeen" : [
+      1780071768.3,
+      1780075391.6000001,
+      1780087527.2,
+      1780105402.1000001,
+      1780163082.4,
+      1780171307.1,
+      1780178909.5,
+      1780187916.3000002,
+      1780191558.3,
+      1780195456.3
+    ]
   },
   {
-    "hex" : "a37ae9",
-    "lastSeen" : 1780123012.4,
-    "timesSeen" : [
-      1780036005,
-      1780083058,
-      1780093808.8,
-      1780098440.8000002,
-      1780106946.5,
-      1780120994
-    ],
     "flights" : {
-      "OPS40   " : 5
-    }
-  },
-  {
-    "hex" : "a5adf1",
-    "lastSeen" : 1780121699.8,
-    "timesSeen" : [
-      1780032358.6,
-      1780063112.2,
-      1780071293.6,
-      1780082191.1,
-      1780087379.5,
-      1780120585.5
-    ],
-    "flights" : {
-      "UAL1116 " : 1,
-      "UAL702  " : 1,
-      "UAL1863 " : 1
+      "SKW3378 " : 1,
+      "SKW3395 " : 1,
+      "SKW3251 " : 1,
+      "SKW3450 " : 1
     },
+    "lastSeen" : 1780194540.7,
+    "hex" : "a1801c",
     "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "registered_owner" : "United Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/692\/001692234.jpg",
-      "type" : "A320 232",
-      "icao_type" : "A320",
-      "registration" : "N465UA",
+      "type" : "EMB-175 LR",
       "registered_owner_country_name" : "United States",
+      "manufacturer" : "Embraer",
       "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus"
-    }
+      "registered_owner" : "Alaska Airlines",
+      "registered_owner_operator_flag_code" : "SKW",
+      "registration" : "N196SY",
+      "icao_type" : "E75L"
+    },
+    "timesSeen" : [
+      1780069358,
+      1780074253.3,
+      1780086105,
+      1780093627.2,
+      1780105436.3000002,
+      1780160009.8,
+      1780170282.9,
+      1780177721.8,
+      1780188373.1,
+      1780193531.4
+    ]
   }
 ]
