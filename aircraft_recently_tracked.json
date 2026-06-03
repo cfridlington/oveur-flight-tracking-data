@@ -1,241 +1,223 @@
 [
   {
-    "lastSeen" : 1780382970.5,
+    "lastSeen" : 1780469336.4,
     "timesSeen" : [
-      1780132933,
-      1780182695.4,
-      1780188968.3,
-      1780306510.5,
-      1780321647.5,
-      1780382386.3999999
+      1780209091.3,
+      1780468384.3999999
     ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "EC135 P2+",
-      "registration" : "N838CS",
-      "registered_owner_operator_flag_code" : "CMD",
-      "registered_owner" : "CALSTAR",
-      "icao_type" : "EC35",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Eurocopter"
-    },
-    "hex" : "ab7655",
+    "hex" : "a3c163",
     "flights" : {
-      "CMD8    " : 2
+      "DAL2635 " : 1
     }
   },
   {
-    "lastSeen" : 1780382947.6999998,
-    "timesSeen" : [
-      1780064701.5,
-      1780070103,
-      1780078610.1,
-      1780084116,
-      1780095399.6000001,
-      1780100003.4,
-      1780107897.1,
-      1780163615,
-      1780170553.2,
-      1780175600,
-      1780182121.6000001,
-      1780198968.1,
-      1780204505.3,
-      1780324202,
-      1780329037.5,
-      1780338082.4,
-      1780352194.5,
-      1780367152.8999999,
-      1780382262.8
-    ],
+    "lastSeen" : 1780469295.5,
     "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "CRJ 200LR",
-      "registration" : "N946SW",
-      "registered_owner_operator_flag_code" : "SKW",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/715\/001715568.jpg",
-      "registered_owner" : "United Express",
-      "icao_type" : "CRJ2",
-      "manufacturer" : "Bombardier",
-      "registered_owner_country_name" : "United States"
-    },
-    "hex" : "ad2517",
-    "flights" : {
-      "SKW4779 " : 1,
-      "SKW308R " : 1,
-      "SKW5338 " : 1,
-      "SKW5707 " : 1,
-      "SKW5738 " : 1
-    }
-  },
-  {
-    "lastSeen" : 1780382933.6999998,
-    "timesSeen" : [
-      1780381791.4
-    ],
-    "hex" : "ac692a",
-    "flights" : {
-      "SWA3385 " : 1
-    }
-  },
-  {
-    "lastSeen" : 1780382901.1,
-    "timesSeen" : [
-      1780382173.9
-    ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "757 224\/W",
-      "registration" : "N17133",
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645708.jpg",
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B752",
+      "type" : "737MAX 9",
       "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States"
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United Airlines",
+      "icao_type" : "B39M",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N37531",
+      "registered_owner_operator_flag_code" : "UAL"
     },
-    "hex" : "a11fc1",
+    "timesSeen" : [
+      1780419689.5,
+      1780468500.5
+    ],
+    "hex" : "a44939",
     "flights" : {
-      "UAL1340 " : 1
+      "UAL1668 " : 1
     }
   },
   {
-    "lastSeen" : 1780382890.3,
+    "lastSeen" : 1780469196,
     "timesSeen" : [
-      1780382051.3
+      1780468889.3999999
     ],
+    "hex" : "a25800",
+    "flights" : {
+
+    }
+  },
+  {
+    "lastSeen" : 1780469173,
     "properties" : {
+      "type" : "737-8",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "registered_owner" : "Boeing",
+      "registration" : "N347TT",
       "registered_owner_country_iso_name" : "US",
+      "icao_type" : "B38M",
+      "registered_owner_operator_flag_code" : "B190"
+    },
+    "timesSeen" : [
+      1780468619.8000002
+    ],
+    "hex" : "a3d90a",
+    "flights" : {
+      "AAL2799 " : 1
+    }
+  },
+  {
+    "lastSeen" : 1780469137.2,
+    "properties" : {
       "type" : "EMB-175 LL",
-      "registration" : "N510SY",
-      "registered_owner_operator_flag_code" : "SKW",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Embraer",
       "registered_owner" : "American Eagle",
       "icao_type" : "E75L",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_name" : "United States"
-    },
-    "hex" : "a66316",
-    "flights" : {
-      "SKW6510 " : 1
-    }
-  },
-  {
-    "lastSeen" : 1780382836.8,
-    "timesSeen" : [
-      1780382052.2
-    ],
-    "properties" : {
+      "registration" : "N519SY",
       "registered_owner_country_iso_name" : "US",
-      "type" : "A321 211SL",
-      "registration" : "N363DN",
-      "registered_owner_operator_flag_code" : "DAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/668\/001668609.jpg",
-      "registered_owner" : "Delta Air Lines",
-      "icao_type" : "A321",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Airbus"
+      "registered_owner_operator_flag_code" : "SKW"
     },
-    "hex" : "a417c9",
+    "timesSeen" : [
+      1780101797.4,
+      1780105918.1,
+      1780120423.4,
+      1780147184.1,
+      1780413231.5,
+      1780418606.8999999,
+      1780468203.1000001
+    ],
+    "hex" : "a68485",
     "flights" : {
-      "DAL2089 " : 1
+      "SKW6221 " : 1,
+      "SKW6260 " : 1,
+      "SKW6294 " : 1
     }
   },
   {
-    "lastSeen" : 1780382825.3,
+    "lastSeen" : 1780469114.2,
+    "properties" : {
+      "type" : "757 231\/W",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "Delta Air Lines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/480\/001480039.jpg",
+      "registration" : "N718TW",
+      "icao_type" : "B752",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "DAL"
+    },
+    "timesSeen" : [
+      1780040925.2,
+      1780052305.4,
+      1780096605.9,
+      1780217759.4,
+      1780244604.3999999,
+      1780295581.9,
+      1780382562.9,
+      1780468799.3
+    ],
+    "hex" : "a99b83",
+    "flights" : {
+      "DAL1327 " : 1,
+      "DAL667  " : 1,
+      "DAL363  " : 1
+    }
+  },
+  {
+    "lastSeen" : 1780469099.7,
+    "properties" : {
+      "type" : "A320 271NSL",
+      "manufacturer" : "Airbus",
+      "registered_owner_country_name" : "Mexico",
+      "registered_owner" : "Volaris",
+      "registration" : "XA-VSI",
+      "registered_owner_country_iso_name" : "MX",
+      "icao_type" : "A20N",
+      "registered_owner_operator_flag_code" : "VOI"
+    },
     "timesSeen" : [
       1780277812.2,
       1780285640.4,
       1780374062.2,
-      1780381991.5
+      1780381991.5,
+      1780460609.5,
+      1780468859.3
     ],
-    "properties" : {
-      "registered_owner_country_iso_name" : "MX",
-      "type" : "A320 271NSL",
-      "registration" : "XA-VSI",
-      "registered_owner_operator_flag_code" : "VOI",
-      "registered_owner" : "Volaris",
-      "icao_type" : "A20N",
-      "registered_owner_country_name" : "Mexico",
-      "manufacturer" : "Airbus"
-    },
     "hex" : "0d0e16",
     "flights" : {
-      "VOI1773 " : 1,
-      "VOI1770 " : 1
+      "VOI1770 " : 1,
+      "VOI1773 " : 2
     }
   },
   {
-    "lastSeen" : 1780382764.6999998,
-    "timesSeen" : [
-      1780177491.7,
-      1780235076.9,
-      1780243761.1,
-      1780382295.6
-    ],
+    "lastSeen" : 1780469099.6,
     "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "757 324\/W",
-      "registration" : "N75854",
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/695\/001695759.jpg",
+      "type" : "A320 232",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Airbus",
       "registered_owner" : "United Airlines",
-      "icao_type" : "B753",
-      "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States"
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/669\/001669321.jpg",
+      "registration" : "N493UA",
+      "registered_owner_country_iso_name" : "US",
+      "icao_type" : "A320",
+      "registered_owner_operator_flag_code" : "UAL"
     },
-    "hex" : "aa3ae5",
+    "timesSeen" : [
+      1780356173.3,
+      1780410349.7,
+      1780417765.7,
+      1780427149,
+      1780433310.2,
+      1780469069.8
+    ],
+    "hex" : "a61d00",
     "flights" : {
-      "UAL373  " : 1
+      "UAL2386 " : 1,
+      "UAL1846 " : 1
     }
   },
   {
-    "lastSeen" : 1780382751.6,
-    "timesSeen" : [
-      1780109733.5,
-      1780113932.6,
-      1780167553.5,
-      1780184921.9,
-      1780280972.9,
-      1780381961.8
-    ],
+    "lastSeen" : 1780469099.6,
     "properties" : {
+      "type" : "A321 231SL",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Airbus",
+      "registered_owner" : "JetBlue Airways",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645477.jpg",
+      "icao_type" : "A321",
       "registered_owner_country_iso_name" : "US",
-      "type" : "EMB-175 LR",
-      "registration" : "N257SY",
-      "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "Delta Connection",
-      "icao_type" : "E75L",
-      "manufacturer" : "Embraer",
-      "registered_owner_country_name" : "United States"
+      "registration" : "N942JB",
+      "registered_owner_operator_flag_code" : "JBU"
     },
-    "hex" : "a27326",
+    "timesSeen" : [
+      1780366883.4,
+      1780373135.3999999,
+      1780417586.6,
+      1780469041.4
+    ],
+    "hex" : "ad1560",
     "flights" : {
-      "SKW3956 " : 1,
-      "SKW4132 " : 2
+      "JBU377  " : 1,
+      "JBU233  " : 1
     }
   },
   {
-    "lastSeen" : 1780382739.5,
-    "timesSeen" : [
-      1780159715.6999998,
-      1780206689.2,
-      1780213213.1,
-      1780254784.8,
-      1780382331.5
-    ],
+    "lastSeen" : 1780469082.1000001,
     "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "757 324\/W",
-      "registration" : "N75853",
-      "registered_owner_operator_flag_code" : "UAL",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/699\/001699507.jpg",
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B753",
+      "type" : "737-9",
       "manufacturer" : "Boeing",
-      "registered_owner_country_name" : "United States"
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "Boeing",
+      "icao_type" : "B39M",
+      "registration" : "N719AL",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "B190"
     },
-    "hex" : "aa3ae4",
+    "timesSeen" : [
+      1780073205.3,
+      1780118949.8,
+      1780468380.3999999
+    ],
+    "hex" : "a99d87",
     "flights" : {
-      "UAL1116 " : 1
+      "ASA1449 " : 1,
+      "ASA476  " : 1
     }
   }
 ]
