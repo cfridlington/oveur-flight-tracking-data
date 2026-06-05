@@ -1,223 +1,216 @@
 [
   {
-    "lastSeen" : 1780555762.1000001,
+    "hex" : "a406c9",
     "timesSeen" : [
-      1780073502.2,
-      1780084436.2,
-      1780091044.2,
-      1780102161,
-      1780107955,
-      1780119819.8999999,
-      1780150248.1999998,
-      1780160506.7,
-      1780184011.6,
-      1780189208.4,
-      1780249280.8,
-      1780273280.6,
-      1780277821.8,
-      1780330157.3999999,
-      1780339248.6000001,
-      1780366028,
-      1780369766.3,
-      1780457120.5,
-      1780503695.4,
-      1780508509.1,
-      1780520691.3,
-      1780524939.1000001,
-      1780535032.5,
-      1780542661.1,
-      1780555099.5
+      1780607948,
+      1780615381.3,
+      1780633403.8,
+      1780641393.8
     ],
     "flights" : {
-      "SKW3447 " : 2,
-      "SKW3440 " : 1,
-      "SKW3413 " : 1,
-      "SKW3492 " : 2,
-      "SKW3479 " : 1,
-      "SKW3378 " : 1,
-      "SKW3047 " : 1,
-      "SKW3255 " : 1,
-      "SKW3449 " : 1
+      "FFT3581 " : 1,
+      "FFT4156 " : 1
     },
-    "hex" : "a1311e",
+    "lastSeen" : 1780642102.1,
     "properties" : {
-      "type" : "EMB-175 LR",
-      "icao_type" : "E75L",
+      "registered_owner_operator_flag_code" : "FFT",
       "registered_owner_country_iso_name" : "US",
-      "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "Alaska Airlines",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/750\/001750278.jpg",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Embraer",
-      "registration" : "N176SY"
-    }
-  },
-  {
-    "lastSeen" : 1780555749.3000002,
-    "timesSeen" : [
-      1780265563.3000002,
-      1780272740,
-      1780511214.7,
-      1780554887.2
-    ],
-    "flights" : {
-      "UAL1812 " : 1
-    },
-    "hex" : "a0b845"
-  },
-  {
-    "lastSeen" : 1780555732.3000002,
-    "timesSeen" : [
-      1780554431.3999999
-    ],
-    "flights" : {
-      "ASA1406 " : 1
-    },
-    "hex" : "a9873d",
-    "properties" : {
-      "type" : "737-9",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "B39M",
-      "registered_owner_operator_flag_code" : "B190",
-      "registered_owner" : "Boeing",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Boeing",
-      "registration" : "N713AL"
-    }
-  },
-  {
-    "lastSeen" : 1780555668.1000001,
-    "timesSeen" : [
-      1780091915.3,
-      1780096662.5,
-      1780105576.3,
-      1780109228,
-      1780450627.1,
-      1780536863.8,
-      1780548788.8999999,
-      1780554405.6999998
-    ],
-    "flights" : {
-      "N408SD  " : 7
-    },
-    "hex" : "a4cbed"
-  },
-  {
-    "lastSeen" : 1780555654.3000002,
-    "timesSeen" : [
-      1780555036.6
-    ],
-    "flights" : {
-      "CMP382  " : 1
-    },
-    "hex" : "0c2179",
-    "properties" : {
-      "type" : "737-9 MAX",
-      "registered_owner_country_iso_name" : "PA",
-      "icao_type" : "B39M",
-      "registered_owner_operator_flag_code" : "CMP",
-      "registered_owner" : "Copa Airlines",
-      "registered_owner_country_name" : "Panama",
-      "manufacturer" : "Boeing",
-      "registration" : "HP-9923CMP"
-    }
-  },
-  {
-    "lastSeen" : 1780555636.9,
-    "timesSeen" : [
-      1780554888.2
-    ],
-    "flights" : {
-      "ASA518  " : 1
-    },
-    "hex" : "aaf831",
-    "properties" : {
-      "registered_owner_country_iso_name" : "US",
-      "type" : "737-8",
-      "icao_type" : "B38M",
-      "registered_owner_operator_flag_code" : "B190",
-      "registered_owner" : "Boeing",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Boeing",
-      "registration" : "N806AK"
-    }
-  },
-  {
-    "lastSeen" : 1780555595,
-    "timesSeen" : [
-      1780265778.6999998,
-      1780273220.6000001,
-      1780351783.7,
-      1780359914,
-      1780545397,
-      1780554886.3
-    ],
-    "flights" : {
-      "VOI1823 " : 2,
-      "VOI1772 " : 1,
-      "VOI1822 " : 2
-    },
-    "hex" : "a69d67",
-    "properties" : {
-      "type" : "A320 233SL",
-      "registered_owner_country_iso_name" : "US",
-      "icao_type" : "A320",
-      "registered_owner_operator_flag_code" : "VOI",
-      "registered_owner" : "Volaris",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/535\/001535431.jpg",
       "registered_owner_country_name" : "United States",
       "manufacturer" : "Airbus",
-      "registration" : "N525VL"
+      "type" : "A320 251NSL",
+      "icao_type" : "A20N",
+      "registration" : "N359FR",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/691\/001691932.jpg",
+      "registered_owner" : "Frontier Airlines"
     }
   },
   {
-    "lastSeen" : 1780555569.7,
+    "hex" : "a85931",
     "timesSeen" : [
-      1780377817.3,
-      1780415693.3,
-      1780554917.3
+      1780076567,
+      1780081949.3,
+      1780106167.2,
+      1780109787.3,
+      1780168631.8000002,
+      1780502261,
+      1780508869.2,
+      1780520569.2,
+      1780524218.7,
+      1780641433.7
     ],
     "flights" : {
-      "ASA1350 " : 1
+      "QXE2055 " : 1,
+      "QXE2076 " : 2,
+      "QXE2240 " : 1
     },
-    "hex" : "ab1bf9"
-  },
-  {
-    "lastSeen" : 1780555518.7,
-    "timesSeen" : [
-      1780167584.5,
-      1780174968.3999999,
-      1780339339.1,
-      1780347178.2,
-      1780504423.4,
-      1780510011.5,
-      1780554900.5
-    ],
-    "flights" : {
-      "SKW6428 " : 1,
-      "SKW4911 " : 1,
-      "SKW6361 " : 2
-    },
-    "hex" : "a64a73",
+    "lastSeen" : 1780642093.7,
     "properties" : {
+      "registered_owner_operator_flag_code" : "QXE",
       "registered_owner_country_iso_name" : "US",
-      "type" : "EMB-175 LL",
-      "icao_type" : "E75L",
-      "registered_owner_operator_flag_code" : "SKW",
-      "registered_owner" : "American Eagle",
       "registered_owner_country_name" : "United States",
       "manufacturer" : "Embraer",
-      "registration" : "N504SY"
+      "type" : "EMB-175 LR",
+      "icao_type" : "E75L",
+      "registration" : "N637QX",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/706\/001706288.jpg",
+      "registered_owner" : "Alaska Airlines"
     }
   },
   {
-    "lastSeen" : 1780555505.1,
+    "hex" : "acd88e",
     "timesSeen" : [
-      1780554888
+      1780641609.3000002
     ],
     "flights" : {
-      "AAL2799 " : 1
+
     },
-    "hex" : "a37032"
+    "lastSeen" : 1780642089.7,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "DAL",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B739",
+      "type" : "737NG 900ER\/W",
+      "registration" : "N927DZ",
+      "registered_owner" : "Delta Air Lines"
+    }
+  },
+  {
+    "hex" : "a2c992",
+    "timesSeen" : [
+      1780123559,
+      1780641647.4
+    ],
+    "flights" : {
+      "SKW3797 " : 1
+    },
+    "lastSeen" : 1780642061.8,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "SKW",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Embraer",
+      "type" : "EMB-175 LR",
+      "icao_type" : "E75L",
+      "registration" : "N279SY",
+      "registered_owner" : "Delta Connection"
+    }
+  },
+  {
+    "hex" : "~0e8cf5",
+    "timesSeen" : [
+      1780641574
+    ],
+    "flights" : {
+
+    },
+    "lastSeen" : 1780642034.8
+  },
+  {
+    "hex" : "abba93",
+    "timesSeen" : [
+      1780595857.5,
+      1780641393.7
+    ],
+    "flights" : {
+      "GTI8065 " : 1,
+      "GTI512  " : 1
+    },
+    "lastSeen" : 1780642028.6,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "PAC",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Boeing",
+      "type" : "747 87UF",
+      "icao_type" : "B748",
+      "registration" : "N855GT",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/600\/001600185.jpg",
+      "registered_owner" : "Polar Air Cargo"
+    }
+  },
+  {
+    "hex" : "a154e6",
+    "timesSeen" : [
+      1780345316,
+      1780358733.2,
+      1780366616,
+      1780539035.4,
+      1780544315.6,
+      1780591051.3999999,
+      1780596878.3999999,
+      1780606689.1,
+      1780613580.1,
+      1780624004.3999999,
+      1780629889.5,
+      1780641398.1000001
+    ],
+    "flights" : {
+      "SKW3465 " : 1,
+      "SKW3255 " : 1,
+      "SKW3463 " : 1,
+      "SKW3475 " : 1,
+      "SKW3423 " : 1,
+      "SKW3047 " : 1
+    },
+    "lastSeen" : 1780642027.6999998,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "SKW",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Embraer",
+      "type" : "EMB-175 LR",
+      "icao_type" : "E75L",
+      "registration" : "N185SY",
+      "registered_owner" : "Alaska Airlines"
+    }
+  },
+  {
+    "hex" : "a2b7f5",
+    "timesSeen" : [
+      1780196393.4,
+      1780203396.5,
+      1780248746.8,
+      1780258382.2,
+      1780641415.8
+    ],
+    "flights" : {
+      "UAL1603 " : 1,
+      "UAL2107 " : 1,
+      "UAL1387 " : 1
+    },
+    "lastSeen" : 1780642018
+  },
+  {
+    "hex" : "ab93db",
+    "timesSeen" : [
+      1780637999.6000001,
+      1780641604
+    ],
+    "flights" : {
+      "EJA845  " : 2
+    },
+    "lastSeen" : 1780641969
+  },
+  {
+    "hex" : "a65d06",
+    "timesSeen" : [
+      1780641484.2
+    ],
+    "flights" : {
+      "SKW6510 " : 1
+    },
+    "lastSeen" : 1780641966.3999999,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "SKW",
+      "registered_owner_country_name" : "United States",
+      "registered_owner_country_iso_name" : "US",
+      "manufacturer" : "Embraer",
+      "icao_type" : "E75L",
+      "type" : "EMB-175 LL",
+      "registration" : "N509SY",
+      "registered_owner" : "American Eagle"
+    }
   }
 ]
