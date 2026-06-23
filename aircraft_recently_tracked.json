@@ -1,258 +1,440 @@
 [
   {
-    "lastSeen" : 1782110087.8999999,
     "timesSeen" : [
-      1780848029.4,
-      1780856881.9,
-      1782109379.6
+      1780189572.5,
+      1780193804.1000001,
+      1780936032.8999999,
+      1780941106.3,
+      1781056510.4,
+      1781062042.2,
+      1781905346.2,
+      1781913987.5,
+      1782195465.8999999
     ],
-    "hex" : "a35ea8",
+    "hex" : "ac5eb4",
     "flights" : {
-      "REH17   " : 2,
-      "REH18   " : 1
+      "SWA485  " : 1,
+      "SWA1518 " : 1,
+      "SWA4227 " : 1
     },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "REH",
-      "registered_owner" : "REACH Air Medical Services",
-      "registered_owner_country_name" : "United States",
-      "manufacturer" : "Airbus Helicopters",
-      "type" : "EC135",
-      "icao_type" : "EC35",
-      "registration" : "N316RX",
-      "registered_owner_country_iso_name" : "US"
-    }
+    "lastSeen" : 1782196464
   },
   {
-    "lastSeen" : 1782110079,
     "timesSeen" : [
-      1781389173.9,
-      1781396624.3,
-      1781499326.3,
-      1781504967,
-      1782106261.1000001,
-      1782109898.8
+      1780576184.1999998,
+      1780618595.7,
+      1780950027.4,
+      1780956695.6,
+      1781103369.8,
+      1781107784.1,
+      1781411615.5,
+      1781442579.7,
+      1781982321.1000001,
+      1781986946.2,
+      1782114254.6999998,
+      1782134189.7,
+      1782195832.8
     ],
-    "hex" : "abe40a",
+    "hex" : "ac2c56",
     "flights" : {
-      "SWA3266 " : 1,
-      "SWA3820 " : 1
+      "SWA3670 " : 1,
+      "SWA2369 " : 1,
+      "SWA3825 " : 1,
+      "SWA3066 " : 1,
+      "SWA4539 " : 1
     },
+    "lastSeen" : 1782196454.8000002,
     "properties" : {
       "registered_owner_operator_flag_code" : "SWA",
       "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B38M",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N8837Q",
       "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/668\/001668455.jpg",
       "manufacturer" : "Boeing",
-      "type" : "737NG 8H4\/W",
-      "registration" : "N8652B",
-      "icao_type" : "B738",
-      "registered_owner_country_iso_name" : "US"
+      "type" : "737-8"
     }
   },
   {
-    "lastSeen" : 1782110034.2,
     "timesSeen" : [
-      1780070469.1,
-      1780100535.8999999,
-      1780359052.8,
-      1780408880.2,
-      1780503196.7,
-      1780534460.8999999,
-      1780850516.7,
-      1780899084,
-      1780973048.6,
-      1781020380.1999998,
-      1782061891.3999999,
-      1782109216.9
+      1780245015.8999999,
+      1780252024.7,
+      1780272835.1000001,
+      1780515285.4,
+      1780590150.4,
+      1780637044.8,
+      1780678099.5,
+      1780731565.7,
+      1780800352.1000001,
+      1780858566.1,
+      1780966068,
+      1781283514.9,
+      1781329158.7,
+      1781405574.6,
+      1781451174.6,
+      1781496466.7,
+      1781561047,
+      1781647292.8999999,
+      1781704817.9,
+      1781841958.7,
+      1781882899.6999998,
+      1781914496.1000001,
+      1781969019.3,
+      1782195675.5
     ],
-    "hex" : "a76f46",
+    "hex" : "aa3ae2",
     "flights" : {
-      "UAL2391 " : 1
+      "UAL1495 " : 1,
+      "UAL2391 " : 1,
+      "UAL2633 " : 1,
+      "UAL1722 " : 1
     },
+    "lastSeen" : 1782196411.2,
     "properties" : {
       "registered_owner_operator_flag_code" : "UAL",
       "registered_owner" : "United Airlines",
-      "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/656\/001656818.jpg",
-      "manufacturer" : "Boeing",
-      "type" : "757 324\/W",
       "icao_type" : "B753",
-      "registration" : "N57855",
-      "registered_owner_country_iso_name" : "US"
-    }
-  },
-  {
-    "lastSeen" : 1782109995.3,
-    "timesSeen" : [
-      1780087379.8,
-      1780134868.5,
-      1780174849.1000001,
-      1780222968.1000001,
-      1780309951.7,
-      1782057413.6,
-      1782109380.3999999
-    ],
-    "hex" : "a0a903",
-    "flights" : {
-      "UAL1558 " : 1,
-      "UAL2307 " : 1,
-      "UAL1758 " : 1,
-      "UAL2308 " : 1,
-      "UAL1095 " : 1
-    },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "UAL",
-      "registered_owner" : "United Airlines",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/678\/001678984.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N75851",
       "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/645\/001645118.jpg",
-      "manufacturer" : "Boeing",
-      "type" : "757 224\/W",
-      "icao_type" : "B752",
-      "registration" : "N14118",
-      "registered_owner_country_iso_name" : "US"
+      "type" : "757 324\/W",
+      "manufacturer" : "Boeing"
     }
   },
   {
-    "lastSeen" : 1782109993.3,
     "timesSeen" : [
-      1780328916.8,
-      1780975774.7,
-      1782109332
+      1780447202.3999999,
+      1780460693.8,
+      1780504423.4,
+      1780512083.1,
+      1780520588.9,
+      1780534731.5,
+      1780545638.2,
+      1780550206.8,
+      1780582280.4,
+      1780588288,
+      1780597605.7,
+      1780612078.5,
+      1780624970,
+      1780640252.4,
+      1780679000.7,
+      1780686244.4,
+      1780692493.7,
+      1780704631.8999999,
+      1780720694.4,
+      1780725050.6999998,
+      1780754755.1,
+      1780760653.7,
+      1780769833.3,
+      1780783020,
+      1780797440.1999998,
+      1780812969.1000001,
+      1780848826.1000001,
+      1780861458.6,
+      1780866654.1,
+      1780876917.5,
+      1780896200.6,
+      1780901920,
+      1780931829.8,
+      1780939494.5,
+      1780951380.2,
+      1780956494.2,
+      1780962914.7,
+      1780977902,
+      1780983819.3,
+      1781013856.6,
+      1781019057.7,
+      1781028876,
+      1781043958.1000001,
+      1781057293.8,
+      1781071146.1000001,
+      1781109555.6,
+      1781114317,
+      1781121360.1999998,
+      1781125933.5,
+      1781131640.9,
+      1781146351.3,
+      1781151968.3,
+      1781187925.8000002,
+      1781192880,
+      1781202131.6,
+      1781222198.8,
+      1781234722.5,
+      1781247096.7,
+      1781278576.8,
+      1781291822.3,
+      1781301044.7,
+      1781306450.3,
+      1781326298.8,
+      1781331407,
+      1781360133.9,
+      1781365894.1999998,
+      1781374965.8999999,
+      1781388908,
+      1781402070.5,
+      1781450301.1,
+      1781467370.3,
+      1781471455.9,
+      1781481519.8000002,
+      1781499571,
+      1781505507.6999998,
+      1781539919,
+      1781544706.8,
+      1781550894.5,
+      1781559124.2,
+      1781564141.6000001,
+      1781584718.6,
+      1781589882.4,
+      1781618297.8999999,
+      1781627615.8,
+      1781636533.6000001,
+      1781649423.1000001,
+      1781663594,
+      1781676601.4,
+      1781713463.6,
+      1781717541.5,
+      1781726779.5,
+      1781737425.8,
+      1781751994.2,
+      1781756769.8999999,
+      1781792938.1,
+      1781797200.1999998,
+      1781806973.9,
+      1781826344.5,
+      1781840247.8999999,
+      1781889085.5,
+      1781901130.3999999,
+      1781912006.6,
+      1781923346.2,
+      1781928631.6000001,
+      1781965680.2,
+      1781971767.4,
+      1781980067.4,
+      1781995540.1999998,
+      1782057954.3,
+      1782066635.2,
+      1782089493.7,
+      1782097603.6,
+      1782102623.3,
+      1782138845,
+      1782143891.8,
+      1782153053.2,
+      1782167938.9,
+      1782180544.2,
+      1782196010.3
     ],
-    "hex" : "~0eae13",
+    "hex" : "ad854a",
     "flights" : {
-
-    }
-  },
-  {
-    "lastSeen" : 1782109989.3999999,
-    "timesSeen" : [
-      1780457207.6,
-      1781385035.7,
-      1782109356.1
-    ],
-    "hex" : "aafc36",
-    "flights" : {
-      "DAL1559 " : 1
+      "SKW5502 " : 2,
+      "SKW308R " : 2,
+      "SKW4729 " : 4,
+      "SKW5961 " : 2,
+      "SKW5713 " : 1,
+      "SKW5942 " : 4,
+      "SKW5557 " : 3,
+      "SKW5338 " : 1,
+      "SKW410Z " : 3,
+      "SKW5592 " : 2,
+      "SKW5271 " : 3,
+      "SKW5464 " : 1,
+      "SKW5738 " : 1,
+      "SKW5737 " : 2
     },
+    "lastSeen" : 1782196370.7,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "SKW",
+      "registered_owner" : "United Express",
+      "icao_type" : "CRJ2",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/536\/001536753.jpg",
+      "registration" : "N970SW",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Bombardier",
+      "type" : "CRJ 200LR"
+    }
+  },
+  {
+    "timesSeen" : [
+      1780323511.3,
+      1780331528.8,
+      1780384786.2,
+      1781884758.9,
+      1782185260.2,
+      1782195586.3
+    ],
+    "hex" : "aa7f2a",
+    "flights" : {
+      "UAL1679 " : 1,
+      "UAL694  " : 1
+    },
+    "lastSeen" : 1782196355.9,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "B190",
+      "registered_owner" : "Boeing",
+      "icao_type" : "B39M",
+      "registration" : "N77587",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "type" : "737-9",
+      "manufacturer" : "Boeing"
+    }
+  },
+  {
+    "timesSeen" : [
+      1780091551.1999998,
+      1780610942.6,
+      1782195471.8999999
+    ],
+    "hex" : "ab79d3",
+    "flights" : {
+      "ASA1439 " : 1
+    },
+    "lastSeen" : 1782196235.9
+  },
+  {
+    "timesSeen" : [
+      1781155637.9,
+      1781185399.8,
+      1782195979.6000001
+    ],
+    "hex" : "abbdfa",
+    "flights" : {
+      "DAL654  " : 1,
+      "DAL933  " : 1
+    },
+    "lastSeen" : 1782196193.6,
     "properties" : {
       "registered_owner_operator_flag_code" : "DAL",
       "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/599\/001599370.jpg",
-      "type" : "737NG 932ER\/W",
-      "manufacturer" : "Boeing",
-      "registration" : "N807DN",
       "icao_type" : "B739",
-      "registered_owner_country_iso_name" : "US"
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/607\/001607601.jpg",
+      "registration" : "N856DN",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "manufacturer" : "Boeing",
+      "type" : "737NG 932ER\/W"
     }
   },
   {
-    "lastSeen" : 1782109975.5,
     "timesSeen" : [
-      1780177637.9,
-      1780183318.8,
-      1780274902.8,
-      1780278784.8,
-      1780342617.3999999,
-      1780347809.3,
-      1780782182.8,
-      1780789213.8999999,
-      1780797918.3,
-      1780802814.3999999,
-      1782109350
+      1780084034.7,
+      1780322102.1,
+      1780346189.5,
+      1780356162.3,
+      1780596177.1000001,
+      1780602946,
+      1780619767.1,
+      1780624401.5,
+      1780681336.3999999,
+      1780686450,
+      1780784669.2,
+      1780797017.6999998,
+      1780850488.8000002,
+      1781028110.1000001,
+      1781035032.8999999,
+      1781050527.5,
+      1781098985.8999999,
+      1781201589.8999999,
+      1781224991.9,
+      1781229405.1000001,
+      1781282991,
+      1781287679.8999999,
+      1781650809,
+      1781654653.5,
+      1781727857.1000001,
+      1781733671.5,
+      1781741240.5,
+      1781746657.5,
+      1781762664.7,
+      1781832554.9,
+      1781847002.7,
+      1781885382.4,
+      1782167241.7,
+      1782196099.2
     ],
-    "hex" : "a29391",
+    "hex" : "abb5e3",
     "flights" : {
-      "SWA2724 " : 1,
-      "SWA1056 " : 1,
-      "SWA2288 " : 1,
-      "SWA894  " : 1,
-      "SWA2063 " : 1,
-      "SWA3053 " : 1,
-      "SWA1278 " : 1,
-      "SWA257  " : 1
+      "SKW5467 " : 1,
+      "SKW5519 " : 1,
+      "SKW5583 " : 1,
+      "SKW4671 " : 1,
+      "SKW5508 " : 1
     },
+    "lastSeen" : 1782196186.4,
+    "properties" : {
+      "registered_owner_operator_flag_code" : "ASH",
+      "registered_owner" : "United Express",
+      "icao_type" : "E75L",
+      "registration" : "N85370",
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_country_name" : "United States",
+      "type" : "EMB-175 LL",
+      "manufacturer" : "Embraer"
+    }
+  },
+  {
+    "timesSeen" : [
+      1780184804.6000001,
+      1780188425,
+      1780449772.9,
+      1780976821.3,
+      1780981439.1000001,
+      1781368510.3,
+      1781375298.6000001,
+      1782159842.5,
+      1782166088.6,
+      1782192286.8999999,
+      1782195975.8
+    ],
+    "hex" : "ac3688",
+    "flights" : {
+      "SWA3168 " : 1,
+      "SWA384  " : 1,
+      "SWA2239 " : 1,
+      "SWA4249 " : 1,
+      "SWA3644 " : 1
+    },
+    "lastSeen" : 1782196186.4,
     "properties" : {
       "registered_owner_operator_flag_code" : "SWA",
       "registered_owner" : "Southwest Airlines",
+      "icao_type" : "B38M",
+      "registration" : "N8860S",
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/368\/001368439.jpg",
-      "type" : "737NG 7H4\/W",
-      "manufacturer" : "Boeing",
-      "registration" : "N265WN",
-      "icao_type" : "B737",
-      "registered_owner_country_iso_name" : "US"
+      "type" : "737-8",
+      "manufacturer" : "Boeing"
     }
   },
   {
-    "lastSeen" : 1782109949.3999999,
     "timesSeen" : [
-      1780272093.8,
-      1780328825.4,
-      1780333901.6,
-      1780605607.6000001,
-      1780958890.2,
-      1780975679.1999998,
-      1780987438.7,
-      1781015568.8,
-      1781198293.9,
-      1782086822.6999998,
-      1782109077.9
+      1780140207.6,
+      1780202063.8,
+      1780485651.3,
+      1780810804.3,
+      1780841652.8,
+      1781290239.3,
+      1781461097.6000001,
+      1782195947
     ],
-    "hex" : "ab84ff",
+    "hex" : "a5b3ad",
     "flights" : {
-      "EJA841  " : 5
+      "ASA678  " : 1,
+      "ASA262  " : 1,
+      "ASA1350 " : 1
     },
+    "lastSeen" : 1782196186.1,
     "properties" : {
-      "registered_owner_operator_flag_code" : "EJA",
-      "registered_owner" : "NetJets",
-      "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/006\/001006585.jpg",
-      "manufacturer" : "Cessna",
-      "type" : "700 Citation Longitude",
-      "icao_type" : "C700",
-      "registration" : "N841QS",
-      "registered_owner_country_iso_name" : "US"
-    }
-  },
-  {
-    "lastSeen" : 1782109925.6000001,
-    "timesSeen" : [
-      1781150557.3000002,
-      1781922824.7,
-      1781934681.3,
-      1782008242.7,
-      1782051766.9,
-      1782108987.6
-    ],
-    "hex" : "acb878",
-    "flights" : {
-      "DAL517  " : 1,
-      "DAL1598 " : 1
-    },
-    "properties" : {
-      "registered_owner_operator_flag_code" : "DAL",
-      "registered_owner" : "Delta Air Lines",
-      "registered_owner_country_name" : "United States",
-      "type" : "737NG 900ER\/W",
-      "manufacturer" : "Boeing",
+      "registered_owner_operator_flag_code" : "ASA",
+      "registered_owner" : "Alaska Airlines",
       "icao_type" : "B739",
-      "registration" : "N919DU",
-      "registered_owner_country_iso_name" : "US"
-    }
-  },
-  {
-    "lastSeen" : 1782109843.5,
-    "timesSeen" : [
-      1780249046.8999999,
-      1780418068.3999999,
-      1780528372.6000001,
-      1782109763.3
-    ],
-    "hex" : "~0eb7d9",
-    "flights" : {
-
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/575\/001575517.jpg",
+      "registered_owner_country_iso_name" : "US",
+      "registration" : "N467AS",
+      "registered_owner_country_name" : "United States",
+      "type" : "737NG 990ER\/W",
+      "manufacturer" : "Boeing"
     }
   }
 ]
