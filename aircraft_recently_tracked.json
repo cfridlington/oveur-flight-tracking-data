@@ -1,308 +1,305 @@
 [
   {
+    "lastSeen" : 1783405179.9,
     "timesSeen" : [
-      1780281998.7,
-      1780328826.4,
-      1780339668.9,
-      1780372681.8,
-      1780879409.6000001,
-      1780927739.9,
-      1781579612.2,
-      1781741334.7,
-      1781746857.7,
-      1783029934.6000001,
-      1783098598.3,
-      1783106918,
-      1783197242.7,
-      1783256928.3999999,
-      1783317560.1000001
+      1780077949.8,
+      1780083793.1,
+      1780097238,
+      1780103781.8999999,
+      1780321022.7,
+      1780327563.8,
+      1780345277.3,
+      1780351265.1,
+      1780812357.3,
+      1780838408.6,
+      1780877790.7,
+      1780885571.3999999,
+      1780931766.9,
+      1783404262
     ],
     "properties" : {
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B38M",
       "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registration" : "N27267",
       "registered_owner_operator_flag_code" : "UAL",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/692\/001692224.jpg",
+      "type" : "737NG 824\/W",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B738",
       "registered_owner_country_name" : "United States",
-      "type" : "737-8"
+      "registered_owner" : "United Airlines",
+      "registration" : "N76503"
     },
+    "hex" : "aa568f",
     "flights" : {
-      "UAL2139 " : 1,
-      "UAL234  " : 2,
-      "UAL694  " : 1,
-      "UAL1769 " : 1
-    },
-    "hex" : "a2b134",
-    "lastSeen" : 1783318768.6
+      "UAL1896 " : 1,
+      "UAL433  " : 1,
+      "UAL571  " : 1,
+      "UAL2374 " : 1,
+      "UAL2127 " : 1
+    }
   },
   {
+    "lastSeen" : 1783405168.8,
     "timesSeen" : [
-      1780993794.6,
-      1781037993.9,
-      1781064351.3999999,
-      1782110249.3,
-      1783115301.1,
-      1783317960.4
-    ],
-    "flights" : {
-      "UAL1812 " : 1,
-      "UAL8107 " : 1
-    },
-    "hex" : "a6ed7f",
-    "lastSeen" : 1783318748.8999999
-  },
-  {
-    "timesSeen" : [
-      1780105827.5,
-      1780234224.2,
-      1780628508.3,
-      1780633253.7,
-      1780643413.4,
-      1780901156.9,
-      1780905332.8,
-      1781130724,
-      1781411886,
-      1782089094.7,
-      1782096763,
-      1782184149.9,
-      1782187956.3,
-      1782515724.1,
-      1782519898.5,
-      1782840126.5,
-      1782924201.1,
-      1783006459,
-      1783034948.4,
-      1783039245.5,
-      1783276665,
-      1783280293.7,
-      1783309910.2,
-      1783317900.1
+      1780507581.5,
+      1780514366.7,
+      1781326667.8999999,
+      1781506470,
+      1782328900.9,
+      1782333666.8999999,
+      1783404351.1999998
     ],
     "properties" : {
-      "registered_owner" : "Southwest Airlines",
-      "icao_type" : "B38M",
       "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "DAL",
+      "type" : "737NG 900ER\/W",
       "manufacturer" : "Boeing",
-      "registration" : "N872CB",
+      "icao_type" : "B739",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "Delta Air Lines",
+      "registration" : "N924DZ"
+    },
+    "hex" : "accd69",
+    "flights" : {
+      "DAL2986 " : 1,
+      "DAL809  " : 2
+    }
+  },
+  {
+    "lastSeen" : 1783405142.3,
+    "timesSeen" : [
+      1780120025.8,
+      1780147604.8999999,
+      1781067327.7,
+      1781097571.1,
+      1781569279.8,
+      1781573040.7,
+      1781811347.9,
+      1781816005,
+      1782444692.6,
+      1782448743.5,
+      1783354156,
+      1783358692.3999999,
+      1783404167.8999999
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SWA",
+      "type" : "737MAX 8",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B38M",
       "registered_owner_country_name" : "United States",
-      "type" : "737-8"
+      "registered_owner" : "Southwest Airlines",
+      "registration" : "N1803U"
     },
+    "hex" : "a14380",
     "flights" : {
-      "SWA878  " : 1,
-      "SWA3692 " : 1,
-      "SWA662  " : 1,
-      "SWA3089 " : 1,
-      "SWA1880 " : 1,
-      "SWA1940 " : 1,
-      "SWA4265 " : 2,
-      "SWA1457 " : 1,
-      "SWA1087 " : 1,
-      "SWA1727 " : 1
-    },
-    "hex" : "abfdf8",
-    "lastSeen" : 1783318717.5
+      "SWA2761 " : 1,
+      "SWA2861 " : 1
+    }
   },
   {
+    "lastSeen" : 1783405092.6999998,
     "timesSeen" : [
-      1783318023.1
-    ],
-    "flights" : {
-      "AAL1197 " : 1
-    },
-    "hex" : "ad0851",
-    "lastSeen" : 1783318713.4
-  },
-  {
-    "timesSeen" : [
-      1781222860.5,
-      1781483329.2,
-      1781852297.1,
-      1781897802.8,
-      1782061820.1,
-      1782914619.2,
-      1783179429.2,
-      1783187936.8,
-      1783211388.3,
-      1783269304,
-      1783317815.3
+      1781208446.7,
+      1782938138.1999998,
+      1783404077.3
     ],
     "properties" : {
-      "registered_owner" : "Alaska Airlines",
+      "registered_owner_country_iso_name" : "CA",
+      "registered_owner_operator_flag_code" : "WJA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/533\/001533861.jpg",
+      "type" : "737NG 8CT\/W",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "Canada",
+      "icao_type" : "B738",
+      "registered_owner" : "WestJet",
+      "registration" : "C-GJLZ"
+    },
+    "hex" : "c05da4",
+    "flights" : {
+      "WJA1103 " : 1
+    }
+  },
+  {
+    "lastSeen" : 1783405067,
+    "timesSeen" : [
+      1780373493.6000001,
+      1780504423.6000001,
+      1782017058.8999999,
+      1782181407.6,
+      1782191320.1000001,
+      1783126562.7,
+      1783319776.1,
+      1783345264.3999999,
+      1783384643.3999999,
+      1783391270.6,
+      1783403863.8000002
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "DAL",
+      "type" : "737-9GPER",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
       "icao_type" : "B39M",
-      "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Boeing",
-      "registration" : "N984AK",
-      "registered_owner_operator_flag_code" : "ASA",
-      "registered_owner_country_name" : "United States",
-      "type" : "737-9"
+      "registered_owner" : "Delta Air Lines",
+      "registration" : "N952DZ"
     },
+    "hex" : "ad3c78",
     "flights" : {
-      "ASA1344 " : 1,
-      "ASA526  " : 1,
-      "ASA236  " : 1
-    },
-    "hex" : "adba0a",
-    "lastSeen" : 1783318706.9
+      "DAL2136 " : 1,
+      "DAL681  " : 1,
+      "DAL693  " : 1
+    }
   },
   {
+    "lastSeen" : 1783405051.1,
     "timesSeen" : [
-      1780084504.6000001,
-      1780089512.1999998,
-      1780161126.1999998,
-      1780685438.7,
-      1781893680.1,
-      1781903432.8999999,
-      1782447331.6,
-      1782879969.3999999,
-      1783263987.8999999,
-      1783299736.8,
-      1783305650.4,
-      1783317365.4
-    ],
-    "flights" : {
-      "QXE2409 " : 2,
-      "QXE2278 " : 1,
-      "QXE2221 " : 1
-    },
-    "hex" : "a8d71c",
-    "lastSeen" : 1783318703.5
-  },
-  {
-    "timesSeen" : [
-      1780351560.7,
-      1780379953.7,
-      1780412119,
-      1780433836.8,
-      1783290810.6000001,
-      1783295910.7,
-      1783310331.3,
-      1783317840.2
+      1780956343.6,
+      1782848627.6000001,
+      1782962678.8999999,
+      1782971840.1,
+      1783035791.4,
+      1783403567.3999999
     ],
     "properties" : {
-      "registered_owner" : "United Express",
-      "icao_type" : "E75L",
       "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "E545",
+      "type" : "EMB-505",
       "manufacturer" : "Embraer",
-      "registration" : "N203SY",
-      "registered_owner_operator_flag_code" : "SKW",
+      "icao_type" : "E55P",
       "registered_owner_country_name" : "United States",
-      "type" : "EMB-175 LR"
+      "registered_owner" : "Embraer Executive Aircraft Inc",
+      "registration" : "N476QS"
     },
+    "hex" : "a5d8d3",
     "flights" : {
-      "SKW4737 " : 1,
-      "SKW5676 " : 1,
-      "SKW5625 " : 1,
-      "SKW6042 " : 1
-    },
-    "hex" : "a19ecf",
-    "lastSeen" : 1783318700
+      "EJA476  " : 4
+    }
   },
   {
+    "lastSeen" : 1783405042.2,
     "timesSeen" : [
-      1780156044.8999999,
-      1780169534.8,
-      1780186353.1,
-      1780192482.8,
-      1781881190.1,
-      1781925224.4,
-      1781935852.4,
-      1781968443.6000001,
-      1782108419.7,
-      1782148066.2,
-      1782153444,
-      1782943666.6,
-      1783008696.5,
-      1783058440.5,
-      1783097429.5,
-      1783119894.1,
-      1783182555.3000002,
-      1783294610.5,
-      1783317720.2
+      1783404468.9
+    ],
+    "hex" : "ad935b",
+    "flights" : {
+      "JBU615  " : 1
+    }
+  },
+  {
+    "lastSeen" : 1783405040.3,
+    "timesSeen" : [
+      1780890832.6999998,
+      1780926195.2,
+      1780944175.9,
+      1780948405.5,
+      1781311827,
+      1781316182.6,
+      1781326356.2,
+      1781359917.6999998,
+      1781712093.5,
+      1781716490.3,
+      1782961480.6999998,
+      1782966734.2,
+      1783388227.3,
+      1783394075,
+      1783404109.1
     ],
     "properties" : {
-      "registered_owner" : "United Airlines",
-      "icao_type" : "A320",
       "registered_owner_country_iso_name" : "US",
-      "manufacturer" : "Airbus",
-      "registration" : "N444UA",
-      "registered_owner_operator_flag_code" : "UAL",
-      "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/683\/001683074.jpg",
-      "type" : "A320 232"
-    },
-    "flights" : {
-      "UAL336  " : 1,
-      "UAL2861 " : 1,
-      "UAL2317 " : 1,
-      "UAL412  " : 1,
-      "UAL2837 " : 1
-    },
-    "hex" : "a55b3c",
-    "lastSeen" : 1783318695.5
-  },
-  {
-    "timesSeen" : [
-      1783193487.4,
-      1783202017.6999998,
-      1783213802.6000001,
-      1783257015.3000002,
-      1783286154.1,
-      1783290686.3999999,
-      1783317389.5
-    ],
-    "flights" : {
-      "SWA1446 " : 1,
-      "SWA1670 " : 1,
-      "SWA3684 " : 1
-    },
-    "hex" : "ac75dc",
-    "lastSeen" : 1783318677.7
-  },
-  {
-    "timesSeen" : [
-      1780177491.7,
-      1780235076.9,
-      1780243761.1,
-      1780382295.6,
-      1780464536.5,
-      1780675338.9,
-      1780956997.5,
-      1781012699.5,
-      1781714210.4,
-      1781773442.6,
-      1781838955.5,
-      1782066274.6,
-      1782155402.8,
-      1782241782.8,
-      1782328770.8999999,
-      1782490492.7,
-      1782684143.2,
-      1782959916.5,
-      1783005123,
-      1783129781.2,
-      1783183756.3000002,
-      1783318171.1
-    ],
-    "properties" : {
-      "registered_owner" : "United Airlines",
-      "icao_type" : "B753",
+      "registered_owner_operator_flag_code" : "SWA",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/655\/001655962.jpg",
+      "type" : "737NG 7H4\/W",
       "manufacturer" : "Boeing",
-      "registered_owner_country_iso_name" : "US",
-      "registration" : "N75854",
-      "registered_owner_operator_flag_code" : "UAL",
+      "icao_type" : "B737",
       "registered_owner_country_name" : "United States",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/695\/001695759.jpg",
-      "type" : "757 324\/W"
+      "registered_owner" : "Southwest Airlines",
+      "registration" : "N243WN"
     },
+    "hex" : "a23d25",
     "flights" : {
-      "UAL2391 " : 1,
-      "UAL373  " : 1,
-      "UAL635  " : 1,
-      "UAL2633 " : 1
+      "SWA2435 " : 1,
+      "SWA3645 " : 1,
+      "SWA2738 " : 1,
+      "SWA3710 " : 1,
+      "SWA4181 " : 2
+    }
+  },
+  {
+    "lastSeen" : 1783405031.6000001,
+    "timesSeen" : [
+      1780086328.2,
+      1780181650.1,
+      1780187738.5,
+      1780202943.1999998,
+      1780236398.1,
+      1780243453.5,
+      1780267246.6000001,
+      1780276438.5,
+      1780291849.3,
+      1780319699.2,
+      1780782841.6,
+      1782480911.8000002,
+      1782489380.5,
+      1782516145.3999999,
+      1782527590.5,
+      1782572658.5,
+      1782613735.7,
+      1782656435.6,
+      1782700696.8,
+      1782710533.4,
+      1783398009.8,
+      1783404378.1999998
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "UAL",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/618\/001618163.jpg",
+      "type" : "737NG 824\/W",
+      "manufacturer" : "Boeing",
+      "registered_owner_country_name" : "United States",
+      "icao_type" : "B738",
+      "registered_owner" : "United Airlines",
+      "registration" : "N87512"
     },
-    "hex" : "aa3ae5",
-    "lastSeen" : 1783318630
+    "hex" : "ac0b7f",
+    "flights" : {
+      "UAL2142 " : 1,
+      "UAL1712 " : 1,
+      "UAL1267 " : 1,
+      "UAL1189 " : 1,
+      "UAL2179 " : 1
+    }
+  },
+  {
+    "lastSeen" : 1783405013.9,
+    "timesSeen" : [
+      1780441728.6,
+      1781580878.3,
+      1781741300.6999998,
+      1781818256.7,
+      1781875457.2,
+      1781931831.2,
+      1783094422.6000001,
+      1783144705,
+      1783150111.6999998,
+      1783404558.2
+    ],
+    "properties" : {
+      "registered_owner_country_iso_name" : "US",
+      "registered_owner_operator_flag_code" : "UAL",
+      "type" : "737-9",
+      "manufacturer" : "Boeing",
+      "icao_type" : "B39M",
+      "registered_owner_country_name" : "United States",
+      "registered_owner" : "United Airlines",
+      "registration" : "N77578"
+    },
+    "hex" : "aa7f08",
+    "flights" : {
+      "UAL505  " : 1,
+      "UAL1948 " : 1
+    }
   }
 ]
