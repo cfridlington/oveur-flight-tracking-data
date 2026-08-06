@@ -1,34 +1,17 @@
 [
   {
-    "hex" : "ad854a",
+    "lastSeen" : 1785042465.8,
     "properties" : {
-      "icao_type" : "CRJ2",
       "manufacturer" : "Bombardier",
       "registered_owner_country_name" : "United States",
-      "registration" : "N970SW",
-      "registered_owner" : "United Express",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SKW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/536\/001536753.jpg",
+      "registered_owner" : "United Express",
       "type" : "CRJ 200LR",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/536\/001536753.jpg"
+      "icao_type" : "CRJ2",
+      "registration" : "N970SW"
     },
-    "flights" : {
-      "SKW5961 " : 6,
-      "SKW5557 " : 6,
-      "SKW5713 " : 1,
-      "SKW5592 " : 2,
-      "SKW5271 " : 6,
-      "SKW5942 " : 8,
-      "SKW4729 " : 8,
-      "SKW5502 " : 6,
-      "SKW5738 " : 3,
-      "SKW308R " : 2,
-      "SKW5737 " : 5,
-      "SKW5338 " : 5,
-      "SKW5464 " : 1,
-      "SKW410Z " : 4
-    },
-    "lastSeen" : 1785042465.8,
     "timesSeen" : [
       1780447202.3999999,
       1780460693.8,
@@ -293,13 +276,26 @@
       1785023560,
       1785036641.2,
       1785041623.7
-    ]
+    ],
+    "flights" : {
+      "SKW5737 " : 5,
+      "SKW5502 " : 6,
+      "SKW5557 " : 6,
+      "SKW308R " : 2,
+      "SKW5713 " : 1,
+      "SKW5592 " : 2,
+      "SKW410Z " : 4,
+      "SKW5942 " : 8,
+      "SKW5738 " : 3,
+      "SKW5961 " : 6,
+      "SKW5338 " : 5,
+      "SKW4729 " : 8,
+      "SKW5464 " : 1,
+      "SKW5271 " : 6
+    },
+    "hex" : "ad854a"
   },
   {
-    "hex" : "ad06ff",
-    "flights" : {
-      "N9389L  " : 99
-    },
     "lastSeen" : 1785019828.6999998,
     "timesSeen" : [
       1780030190.2,
@@ -558,53 +554,25 @@
       1784997171,
       1785004587.3,
       1785016332.6
-    ]
+    ],
+    "flights" : {
+      "N9389L  " : 99
+    },
+    "hex" : "ad06ff"
   },
   {
-    "hex" : "aaa0fc",
+    "lastSeen" : 1785980492.9,
     "properties" : {
-      "icao_type" : "CRJ7",
-      "registered_owner_country_name" : "United States",
       "manufacturer" : "Bombardier",
-      "registration" : "N784SK",
-      "registered_owner" : "United Express",
+      "registered_owner_country_name" : "United States",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SKW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676979.jpg",
+      "registered_owner" : "United Express",
       "type" : "CRJ 700 702ER",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/676\/001676979.jpg"
+      "icao_type" : "CRJ7",
+      "registration" : "N784SK"
     },
-    "flights" : {
-      "SKW4628 " : 3,
-      "SKW5562 " : 5,
-      "SKW5684 " : 1,
-      "SKW5534 " : 4,
-      "SKW5613 " : 1,
-      "SKW5688 " : 8,
-      "SKW6023 " : 2,
-      "SKW5490 " : 1,
-      "SKW5583 " : 2,
-      "SKW4708 " : 1,
-      "SKW5406 " : 1,
-      "SKW4694 " : 1,
-      "SKW5946 " : 4,
-      "SKW5883 " : 7,
-      "SKW5425 " : 1,
-      "SKW5549 " : 5,
-      "SKW5212 " : 5,
-      "SKW399Y " : 1,
-      "SKW4661 " : 2,
-      "SKW5724 " : 1,
-      "SKW5236 " : 1,
-      "SKW6046 " : 2,
-      "SKW5627 " : 2,
-      "SKW5713 " : 2,
-      "SKW4683 " : 3,
-      "SKW450H " : 1,
-      "SKW4632 " : 1,
-      "SKW5305 " : 1,
-      "SKW5880 " : 1
-    },
-    "lastSeen" : 1785910707.1000001,
     "timesSeen" : [
       1780072182.1,
       1780184850.8,
@@ -845,14 +813,45 @@
       1785817464.1,
       1785824860.8999999,
       1785849303.3,
-      1785909983.8999999
-    ]
+      1785909983.8999999,
+      1785934489.3,
+      1785961552.9,
+      1785979759.2
+    ],
+    "flights" : {
+      "SKW5688 " : 8,
+      "SKW450H " : 1,
+      "SKW6023 " : 2,
+      "SKW5534 " : 4,
+      "SKW6046 " : 2,
+      "SKW5880 " : 1,
+      "SKW5212 " : 5,
+      "SKW5305 " : 1,
+      "SKW5406 " : 1,
+      "SKW4632 " : 1,
+      "SKW4694 " : 1,
+      "SKW5713 " : 2,
+      "SKW5490 " : 1,
+      "SKW5613 " : 1,
+      "SKW4708 " : 1,
+      "SKW5684 " : 1,
+      "SKW5236 " : 1,
+      "SKW399Y " : 1,
+      "SKW5724 " : 1,
+      "SKW5549 " : 6,
+      "SKW5425 " : 1,
+      "SKW4628 " : 3,
+      "SKW5883 " : 7,
+      "SKW5946 " : 4,
+      "SKW5583 " : 2,
+      "SKW4683 " : 3,
+      "SKW5627 " : 2,
+      "SKW5562 " : 5,
+      "SKW4661 " : 2
+    },
+    "hex" : "aaa0fc"
   },
   {
-    "hex" : "a693c7",
-    "flights" : {
-      "N52275  " : 125
-    },
     "lastSeen" : 1785464338.7,
     "timesSeen" : [
       1780074855.9,
@@ -1095,13 +1094,13 @@
       1784853201.7,
       1784858757.8,
       1785463156.3999999
-    ]
+    ],
+    "flights" : {
+      "N52275  " : 125
+    },
+    "hex" : "a693c7"
   },
   {
-    "hex" : "a35be4",
-    "flights" : {
-      "N3151E  " : 69
-    },
     "lastSeen" : 1785011453.1000001,
     "timesSeen" : [
       1780081252.8000002,
@@ -1330,13 +1329,13 @@
       1784992061,
       1784996957.4,
       1785010353.8
-    ]
+    ],
+    "flights" : {
+      "N3151E  " : 69
+    },
+    "hex" : "a35be4"
   },
   {
-    "hex" : "adbd8e",
-    "flights" : {
-      "N98485  " : 56
-    },
     "lastSeen" : 1785902461.6000001,
     "timesSeen" : [
       1780064045.8,
@@ -1562,43 +1561,25 @@
       1785024809.8999999,
       1785697954.1999998,
       1785898925.2
-    ]
+    ],
+    "flights" : {
+      "N98485  " : 56
+    },
+    "hex" : "adbd8e"
   },
   {
-    "hex" : "ad4528",
+    "lastSeen" : 1785897928.1,
     "properties" : {
-      "icao_type" : "CRJ2",
       "manufacturer" : "Bombardier",
       "registered_owner_country_name" : "United States",
-      "registration" : "N954SW",
-      "registered_owner" : "United Express",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SKW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/542\/001542127.jpg",
+      "registered_owner" : "United Express",
       "type" : "CRJ 200LR",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/542\/001542127.jpg"
+      "icao_type" : "CRJ2",
+      "registration" : "N954SW"
     },
-    "flights" : {
-      "SKW5942 " : 7,
-      "SKW4662 " : 2,
-      "SKW5338 " : 1,
-      "SKW4729 " : 5,
-      "SKW5502 " : 3,
-      "SKW6018 " : 1,
-      "SKW5592 " : 3,
-      "SKW5305 " : 2,
-      "SKW5271 " : 8,
-      "SKW5200 " : 1,
-      "SKW410Z " : 1,
-      "SKW5707 " : 2,
-      "SKW5557 " : 3,
-      "SKW5737 " : 6,
-      "SKW4779 " : 5,
-      "SKW5738 " : 1,
-      "SKW5627 " : 1,
-      "SKW5961 " : 6,
-      "SKW5256 " : 1
-    },
-    "lastSeen" : 1785897928.1,
     "timesSeen" : [
       1781288669.8,
       1781372468.6000001,
@@ -1817,13 +1798,31 @@
       1785884597.5,
       1785889763.6,
       1785897213.6000001
-    ]
+    ],
+    "flights" : {
+      "SKW5737 " : 6,
+      "SKW5707 " : 2,
+      "SKW5557 " : 3,
+      "SKW410Z " : 1,
+      "SKW4779 " : 5,
+      "SKW5305 " : 2,
+      "SKW5942 " : 7,
+      "SKW5592 " : 3,
+      "SKW6018 " : 1,
+      "SKW4662 " : 2,
+      "SKW5200 " : 1,
+      "SKW5256 " : 1,
+      "SKW5961 " : 6,
+      "SKW4729 " : 5,
+      "SKW5338 " : 1,
+      "SKW5271 " : 8,
+      "SKW5738 " : 1,
+      "SKW5502 " : 3,
+      "SKW5627 " : 1
+    },
+    "hex" : "ad4528"
   },
   {
-    "hex" : "ad66e9",
-    "flights" : {
-      "N9627H  " : 52
-    },
     "lastSeen" : 1785810784.1,
     "timesSeen" : [
       1780084323.8,
@@ -2034,53 +2033,25 @@
       1785028515.4,
       1785704673.8000002,
       1785809214
-    ]
+    ],
+    "flights" : {
+      "N9627H  " : 52
+    },
+    "hex" : "ad66e9"
   },
   {
-    "hex" : "aa9220",
+    "lastSeen" : 1785900393.3,
     "properties" : {
-      "icao_type" : "CRJ7",
       "manufacturer" : "Bombardier",
       "registered_owner_country_name" : "United States",
-      "registration" : "N780SK",
-      "registered_owner" : "United Express",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SKW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/598\/001598715.jpg",
+      "registered_owner" : "United Express",
       "type" : "CRJ 700 702ER",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/598\/001598715.jpg"
+      "icao_type" : "CRJ7",
+      "registration" : "N780SK"
     },
-    "flights" : {
-      "SKW5962 " : 1,
-      "SKW5440 " : 1,
-      "SKW5212 " : 4,
-      "SKW4661 " : 4,
-      "SKW5713 " : 3,
-      "SKW420W " : 1,
-      "SKW5961 " : 1,
-      "SKW5406 " : 3,
-      "SKW4628 " : 4,
-      "SKW5236 " : 1,
-      "SKW5351 " : 2,
-      "SKW5706 " : 1,
-      "SKW5425 " : 1,
-      "SKW5883 " : 4,
-      "SKW5880 " : 1,
-      "SKW5627 " : 3,
-      "SKW5349 " : 1,
-      "SKW5688 " : 10,
-      "SKW5624 " : 1,
-      "SKW5613 " : 4,
-      "SKW5338 " : 1,
-      "SKW5704 " : 1,
-      "SKW430A " : 3,
-      "SKW5562 " : 4,
-      "SKW5605 " : 1,
-      "SKW5946 " : 2,
-      "SKW4632 " : 5,
-      "SKW4683 " : 2,
-      "SKW5534 " : 1
-    },
-    "lastSeen" : 1785900393.3,
     "timesSeen" : [
       1780251509.1000001,
       1780255834.7,
@@ -2288,39 +2259,53 @@
       1785879581.3,
       1785887530.1,
       1785899585.8
-    ]
+    ],
+    "flights" : {
+      "SKW420W " : 1,
+      "SKW5946 " : 2,
+      "SKW5406 " : 3,
+      "SKW5236 " : 1,
+      "SKW4632 " : 5,
+      "SKW5338 " : 1,
+      "SKW5880 " : 1,
+      "SKW4628 " : 4,
+      "SKW5883 " : 4,
+      "SKW5534 " : 1,
+      "SKW5562 " : 4,
+      "SKW5351 " : 2,
+      "SKW4661 " : 4,
+      "SKW5962 " : 1,
+      "SKW5613 " : 4,
+      "SKW5961 " : 1,
+      "SKW5605 " : 1,
+      "SKW5440 " : 1,
+      "SKW5688 " : 10,
+      "SKW5624 " : 1,
+      "SKW5349 " : 1,
+      "SKW5713 " : 3,
+      "SKW5627 " : 3,
+      "SKW5212 " : 4,
+      "SKW4683 " : 2,
+      "SKW5425 " : 1,
+      "SKW5704 " : 1,
+      "SKW430A " : 3,
+      "SKW5706 " : 1
+    },
+    "hex" : "aa9220"
   },
   {
-    "hex" : "ad2517",
+    "lastSeen" : 1783486146.5,
     "properties" : {
-      "icao_type" : "CRJ2",
       "manufacturer" : "Bombardier",
       "registered_owner_country_name" : "United States",
-      "registration" : "N946SW",
-      "registered_owner" : "United Express",
       "registered_owner_country_iso_name" : "US",
       "registered_owner_operator_flag_code" : "SKW",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/715\/001715568.jpg",
+      "registered_owner" : "United Express",
       "type" : "CRJ 200LR",
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/715\/001715568.jpg"
+      "icao_type" : "CRJ2",
+      "registration" : "N946SW"
     },
-    "flights" : {
-      "SKW4729 " : 3,
-      "SKW5737 " : 3,
-      "SKW5707 " : 1,
-      "SKW5738 " : 3,
-      "SKW410Z " : 3,
-      "SKW5557 " : 5,
-      "SKW5592 " : 1,
-      "SKW5961 " : 3,
-      "SKW338F " : 1,
-      "SKW5502 " : 4,
-      "SKW5942 " : 6,
-      "SKW5338 " : 3,
-      "SKW5271 " : 5,
-      "SKW4779 " : 3,
-      "SKW308R " : 2
-    },
-    "lastSeen" : 1783486146.5,
     "timesSeen" : [
       1780064701.5,
       1780070103,
@@ -2523,6 +2508,24 @@
       1783465443.9,
       1783480133,
       1783485328.4
-    ]
+    ],
+    "flights" : {
+      "SKW5707 " : 1,
+      "SKW5942 " : 6,
+      "SKW5271 " : 5,
+      "SKW338F " : 1,
+      "SKW308R " : 2,
+      "SKW5338 " : 3,
+      "SKW5738 " : 3,
+      "SKW5557 " : 5,
+      "SKW5502 " : 4,
+      "SKW410Z " : 3,
+      "SKW5592 " : 1,
+      "SKW5961 " : 3,
+      "SKW5737 " : 3,
+      "SKW4779 " : 3,
+      "SKW4729 " : 3
+    },
+    "hex" : "ad2517"
   }
 ]
