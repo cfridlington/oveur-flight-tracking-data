@@ -1,7 +1,7 @@
 [
   {
-    "lastSeen" : 1789895628.7,
     "hex" : "06a1d1",
+    "lastSeen" : 1789895628.7,
     "timesSeen" : [
       1782486938.1,
       1784835177.9,
@@ -13,19 +13,8 @@
     }
   },
   {
-    "lastSeen" : 1789894912.3,
     "hex" : "8990d9",
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/607\/001607906.jpg",
-      "manufacturer" : "Boeing",
-      "registration" : "B-16710",
-      "type" : "777 35EER",
-      "registered_owner_country_name" : "Taiwan",
-      "registered_owner_operator_flag_code" : "EVA",
-      "icao_type" : "B77W",
-      "registered_owner_country_iso_name" : "TW",
-      "registered_owner" : "EVA Air"
-    },
+    "lastSeen" : 1789894912.3,
     "timesSeen" : [
       1780094720.2,
       1780231799.5,
@@ -58,19 +47,30 @@
       1789700552,
       1789894275.8999999
     ],
+    "properties" : {
+      "icao_type" : "B77W",
+      "type" : "777 35EER",
+      "registered_owner_country_iso_name" : "TW",
+      "registered_owner_operator_flag_code" : "EVA",
+      "manufacturer" : "Boeing",
+      "registration" : "B-16710",
+      "registered_owner" : "EVA Air",
+      "registered_owner_country_name" : "Taiwan",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/607\/001607906.jpg"
+    },
     "flights" : {
-      "EVA011  " : 2,
-      "EVA005  " : 1,
+      "EVA028  " : 3,
       "EVA015  " : 1,
-      "EVA012  " : 3,
       "EVA006  " : 2,
+      "EVA012  " : 3,
+      "EVA011  " : 2,
       "EVA016  " : 1,
-      "EVA028  " : 3
+      "EVA005  " : 1
     }
   },
   {
-    "lastSeen" : 1789894339.8,
     "hex" : "a06464",
+    "lastSeen" : 1789894339.8,
     "timesSeen" : [
       1789893415.5
     ],
@@ -79,19 +79,8 @@
     }
   },
   {
-    "lastSeen" : 1789893459.3,
     "hex" : "71be22",
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/761\/001761637.jpg",
-      "manufacturer" : "Airbus",
-      "type" : "A380 861",
-      "registered_owner_country_name" : "South Korea",
-      "registration" : "HL7622",
-      "registered_owner_operator_flag_code" : "KAL",
-      "icao_type" : "A388",
-      "registered_owner_country_iso_name" : "KR",
-      "registered_owner" : "Korean Air"
-    },
+    "lastSeen" : 1789893459.3,
     "timesSeen" : [
       1781039897.2,
       1781644852.5,
@@ -108,24 +97,25 @@
       1789508427.1,
       1789892820.3
     ],
+    "properties" : {
+      "icao_type" : "A388",
+      "type" : "A380 861",
+      "registered_owner_country_iso_name" : "KR",
+      "registered_owner_operator_flag_code" : "KAL",
+      "manufacturer" : "Airbus",
+      "registration" : "HL7622",
+      "registered_owner" : "Korean Air",
+      "registered_owner_country_name" : "South Korea",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/761\/001761637.jpg"
+    },
     "flights" : {
       "KAL012  " : 2,
       "KAL011  " : 4
     }
   },
   {
-    "lastSeen" : 1789893407.1000001,
     "hex" : "8990d4",
-    "properties" : {
-      "manufacturer" : "Boeing",
-      "type" : "777 35EER",
-      "registration" : "B-16705",
-      "registered_owner_country_name" : "Taiwan",
-      "registered_owner_operator_flag_code" : "EVA",
-      "icao_type" : "B77W",
-      "registered_owner_country_iso_name" : "TW",
-      "registered_owner" : "EVA Air"
-    },
+    "lastSeen" : 1789893407.1000001,
     "timesSeen" : [
       1780541071.3,
       1780713582.8,
@@ -158,26 +148,25 @@
       1789427730.8999999,
       1789892724.9
     ],
+    "properties" : {
+      "icao_type" : "B77W",
+      "type" : "777 35EER",
+      "registered_owner_country_iso_name" : "TW",
+      "registered_owner_operator_flag_code" : "EVA",
+      "manufacturer" : "Boeing",
+      "registration" : "B-16705",
+      "registered_owner" : "EVA Air",
+      "registered_owner_country_name" : "Taiwan"
+    },
     "flights" : {
-      "EVA011  " : 2,
+      "EVA028  " : 2,
       "EVA016  " : 1,
-      "EVA028  " : 2
+      "EVA011  " : 2
     }
   },
   {
-    "lastSeen" : 1789892986,
     "hex" : "8990f4",
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/640\/001640357.jpg",
-      "manufacturer" : "Airbus",
-      "registration" : "B-18907",
-      "registered_owner_country_name" : "Taiwan",
-      "type" : "A350 941",
-      "registered_owner_operator_flag_code" : "CAL",
-      "icao_type" : "A359",
-      "registered_owner_country_iso_name" : "TW",
-      "registered_owner" : "China Airlines"
-    },
+    "lastSeen" : 1789892986,
     "timesSeen" : [
       1780185601.6,
       1784708689.6000001,
@@ -189,15 +178,26 @@
       1789095948,
       1789892685.6000001
     ],
+    "properties" : {
+      "icao_type" : "A359",
+      "type" : "A350 941",
+      "registered_owner_country_iso_name" : "TW",
+      "registered_owner_operator_flag_code" : "CAL",
+      "manufacturer" : "Airbus",
+      "registration" : "B-18907",
+      "registered_owner" : "China Airlines",
+      "registered_owner_country_name" : "Taiwan",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/640\/001640357.jpg"
+    },
     "flights" : {
       "CAL023  " : 1,
-      "CAL004  " : 1,
-      "CAL024  " : 1
+      "CAL024  " : 1,
+      "CAL004  " : 1
     }
   },
   {
-    "lastSeen" : 1789892856.9,
     "hex" : "a0b8af",
+    "lastSeen" : 1789892856.9,
     "timesSeen" : [
       1785591463,
       1785620118.4,
@@ -212,27 +212,16 @@
       1789892796.8
     ],
     "flights" : {
-      "UAL1568 " : 1,
-      "UAL1389 " : 1,
-      "UAL1596 " : 1,
+      "UAL419  " : 1,
       "UAL1758 " : 1,
-      "UAL419  " : 1
+      "UAL1568 " : 1,
+      "UAL1596 " : 1,
+      "UAL1389 " : 1
     }
   },
   {
-    "lastSeen" : 1789892773.5,
     "hex" : "899021",
-    "properties" : {
-      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/741\/001741207.jpg",
-      "manufacturer" : "Boeing",
-      "type" : "777 36NER",
-      "registered_owner_country_name" : "Taiwan",
-      "registration" : "B-18051",
-      "registered_owner_operator_flag_code" : "CAL",
-      "icao_type" : "B77W",
-      "registered_owner_country_iso_name" : "TW",
-      "registered_owner" : "China Airlines"
-    },
+    "lastSeen" : 1789892773.5,
     "timesSeen" : [
       1780099785,
       1780455164.8,
@@ -249,25 +238,26 @@
       1784951632.1000001,
       1789892125.3
     ],
+    "properties" : {
+      "icao_type" : "B77W",
+      "type" : "777 36NER",
+      "registered_owner_country_iso_name" : "TW",
+      "registered_owner_operator_flag_code" : "CAL",
+      "manufacturer" : "Boeing",
+      "registration" : "B-18051",
+      "registered_owner" : "China Airlines",
+      "registered_owner_country_name" : "Taiwan",
+      "url_photo" : "https:\/\/airport-data.com\/images\/aircraft\/001\/741\/001741207.jpg"
+    },
     "flights" : {
-      "CAL024  " : 1,
+      "CAL008  " : 1,
       "CAL004  " : 1,
-      "CAL008  " : 1
+      "CAL024  " : 1
     }
   },
   {
-    "lastSeen" : 1789892615.2,
     "hex" : "780a97",
-    "properties" : {
-      "manufacturer" : "Boeing",
-      "type" : "777 367ER",
-      "registered_owner_country_name" : "China",
-      "registration" : "B-KQY",
-      "registered_owner_operator_flag_code" : "CPA",
-      "icao_type" : "B77W",
-      "registered_owner_country_iso_name" : "CN",
-      "registered_owner" : "Cathay Pacific Airways"
-    },
+    "lastSeen" : 1789892615.2,
     "timesSeen" : [
       1780766624.3,
       1780941166.4,
@@ -291,14 +281,24 @@
       1789409760.4,
       1789891944.3
     ],
+    "properties" : {
+      "icao_type" : "B77W",
+      "type" : "777 367ER",
+      "registered_owner_country_iso_name" : "CN",
+      "registered_owner_operator_flag_code" : "CPA",
+      "manufacturer" : "Boeing",
+      "registration" : "B-KQY",
+      "registered_owner" : "Cathay Pacific Airways",
+      "registered_owner_country_name" : "China"
+    },
     "flights" : {
-      "CPA870  " : 5,
-      "CPA882  " : 2
+      "CPA882  " : 2,
+      "CPA870  " : 5
     }
   },
   {
-    "lastSeen" : 1789891609,
     "hex" : "a03d31",
+    "lastSeen" : 1789891609,
     "timesSeen" : [
       1789890937.1000001
     ],
